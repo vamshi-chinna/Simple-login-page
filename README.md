@@ -31,9 +31,9 @@ A simple login page built using HTML, CSS, and JavaScript.
    ```sh
    git clone https://vamshi-chinna//simple-login-page.git
 
-cd simple-login-page
-open index.html
-git fetch origin
+-cd simple-login-page
+-open index.html
+
 
 This integrated `README.md` file provides a comprehensive guide to the project, including setup instructions, project structure, usage, customization, and contributing guidelines.
 
